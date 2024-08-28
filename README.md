@@ -1,4 +1,4 @@
-# Kaggle Competition: [Rohlik Orders Forecasting Challenge]
+# Kaggle Competition: Rohlik Orders Forecasting Challenge
 
 **Introduction**
 
